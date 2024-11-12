@@ -1,0 +1,16 @@
+[project]
+name = "alyx-data-tianming"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "jupyterlab>=4.3.0",
+    "matplotlib>=3.9.2",
+    "numpy>=2.0.2",
+    "one-api>=2.11.1",
+    "pandas>=2.2.3",
+    "scipy>=1.13.1",
+    "smbprotocol>=1.15.0",
+    "tqdm>=4.67.0",
+]
